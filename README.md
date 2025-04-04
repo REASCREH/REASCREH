@@ -1,73 +1,84 @@
-Hey, I'm Qamar! 👋
+Qamar Usman
+AI Engineer | Kaggle Expert | Data Solutions Architect
+Building intelligent systems that solve real business problems
 
-AI Engineer | Data Whisperer | Problem Solver
+</div>
+🔥 Core Expertise
+🤖 AI/ML Development
 
-I turn messy data into smart solutions. From predicting risks to building no-code AI tools, I love creating things that make life easier.
+Natural Language Processing (NLP) & Prompt Engineering
 
-🛠️ My Superpowers
+Predictive Modeling & Time-Series Forecasting
 
-Languages: Python (Pandas, NumPy), SQL
+Retrieval-Augmented Generation (RAG) Systems
 
-AI/ML: TensorFlow, Scikit-learn, NLP (RAG, Prompt Engineering), LightGBM
+📊 Data Mastery
 
-Data Magic: AutoML, Time-Series Forecasting, Ensemble Models
+Automated Machine Learning (AutoML)
 
-Tools I ❤️: Streamlit, Matplotlib, LangChain, Google Generative AI
+Large-Scale Data Analysis & Visualization
 
-🌟 Top Wins
+SQL & NoSQL Database Solutions
 
-🥈 Kaggle Silver Medalist (Top 2% worldwide) for predicting kids' internet addiction
-📊 Built 10+ real-world apps (like this AI chat with data)
-🔍 Detected 95% of sensitive data automatically in educational records
-📈 Boosted business decisions with time-series forecasting models
+🛠️ Tech Stack
+Python TensorFlow PyTorch Scikit-learn LightGBM
+Pandas NumPy Streamlit LangChain HuggingFace
 
-🚀 Cool Projects
+🏆 Career Highlights
+🥈 Kaggle Silver Medalist
 
-🤖 AI Assistant for Data
+Top 2% in global competition for child internet use prediction
 
-Let anyone analyze CSV/Excel files without coding
+Achieved QWK score of 0.463 with optimized LightGBM model
 
-Uses Google's AI to answer questions in plain English
-👉 Try it live | Code
+💡 AI Innovation Lead @ VFixAll
 
-⚡ AutoML Wizard
+Built recommendation engines improving customer experience by 30%
 
-Automatically trains models (XGBoost, CatBoost, SVM)
+Developed automated EDA systems saving 100+ hours/month
 
-Handles everything from EDA to hyperparameter tuning
-👉 Demo
+📚 Education Pioneer
 
-💰 Smarter Loans
+Transformed from Mathematics teacher to AI specialist
 
-Predicted credit risks for people with no credit history
+IBM & Stanford-certified in Data Science
 
-Used neural networks for maximum accuracy
-👉 Kaggle Notebook
+🚀 Signature Projects
+1. DataChat AI
+Natural Language Interface for Data Analysis
 
-📝 Essay Grading AI
+Lets non-technical users query datasets in plain English
 
-Made automated essay scoring work in low-resource settings
+Tech: Google Generative AI + LangChain + Streamlit
+🔗 Live Demo | Code
 
-Tested with SVM, LightGBM, and ANN models
-👉 Research Paper
+2. AutoML Powerhouse
+One-Click Machine Learning Solution
 
-📚 Backstory
-🎓 Math degree → AI Engineer (because numbers should do something cool)
+Automated model training for classification/regression
 
-🏆 IBM Data Science & TensorFlow certified
+Features Bayesian Optimization & performance analytics
+🔗 Try It
 
-💡 From teaching to building AI - I love making tech accessible
+3. Financial Risk Predictor
+ANN-Based Credit Scoring System
 
-💬 Let's Chat!
-I'm always happy to:
+Predicts default risks for clients with no credit history
 
-Collaborate on AI/ML projects
+Achieved 95% stability in production
+🔗 Kaggle Notebook
 
-Help with data challenges
 
-Discuss the latest in NLP
+📬 Let's Build the Future
+Open for:
 
-📫 Reach out:
+AI/ML consulting projects
+
+Research collaborations
+
+Tech speaking engagements
+
+Connect with me:
 📧 usmanqamar874@gmail.com
 🔗 LinkedIn
 🐍 Kaggle
