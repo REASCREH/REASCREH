@@ -1,25 +1,69 @@
-# 👋 Hi, I'm [Your Name]!
+Hey, I'm Qamar! 👋
+AI Engineer | Data Whisperer | Problem Solver
 
-### 🚀 About Me
-- 🎯 **Data Scientist | Machine Learning Engineer**
-- 📊 Passionate about AI, Deep Learning, and Big Data
-- 🤖 Building cutting-edge models and contributing to open-source projects
-- 📝 Writing about AI and ML trends
+I turn messy data into smart solutions. From predicting risks to building no-code AI tools, I love creating things that make life easier.
 
-### 💻 Skills & Tools
-- Python | TensorFlow | PyTorch | Scikit-Learn
-- SQL | Pandas | NumPy | Matplotlib | Seaborn
-- Machine Learning | NLP | Computer Vision
-- Git | Docker | AWS | Streamlit
+🛠️ My Superpowers
+Languages: Python (Pandas, NumPy), SQL
 
-### 📌 Featured Projects
-🔹 [Project 1: AI-Powered Chatbot](https://github.com/yourusername/project1) - An NLP chatbot trained on custom datasets.  
-🔹 [Project 2: Automated ML Pipeline](https://github.com/yourusername/project2) - End-to-end machine learning model deployment.  
-🔹 [Project 3: Data Visualization Toolkit](https://github.com/yourusername/project3) - Interactive dashboards for data analysis.  
+AI/ML: TensorFlow, Scikit-learn, NLP (RAG, Prompt Engineering), LightGBM
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)  
-📩 **Email:** youremail@example.com  
+Data Magic: AutoML, Time-Series Forecasting, Ensemble Models
 
-🚀 **Let's build something amazing together!**
+Tools I ❤️: Streamlit, Matplotlib, LangChain, Google Generative AI
+
+🌟 Top Wins
+🥈 Kaggle Silver Medalist (Top 2% worldwide) for predicting kids' internet addiction
+📊 Built 10+ real-world apps (like this AI chat with data)
+🔍 Detected 95% of sensitive data automatically in educational records
+📈 Boosted business decisions with time-series forecasting models
+
+🚀 Cool Projects
+🤖 AI Assistant for Data
+
+Let anyone analyze CSV/Excel files without coding
+
+Uses Google's AI to answer questions in plain English
+👉 Try it live | Code
+
+⚡ AutoML Wizard
+
+Automatically trains models (XGBoost, CatBoost, SVM)
+
+Handles everything from EDA to hyperparameter tuning
+👉 Demo
+
+💰 Smarter Loans
+
+Predicted credit risks for people with no credit history
+
+Used neural networks for maximum accuracy
+👉 Kaggle Notebook
+
+📝 Essay Grading AI
+
+Made automated essay scoring work in low-resource settings
+
+Tested with SVM, LightGBM, and ANN models
+👉 Research Paper
+
+📚 Backstory
+🎓 Math degree → AI Engineer (because numbers should do something cool)
+
+🏆 IBM Data Science & TensorFlow certified
+
+💡 From teaching to building AI - I love making tech accessible
+
+💬 Let's Chat!
+I'm always happy to:
+
+Collaborate on AI/ML projects
+
+Help with data challenges
+
+Discuss the latest in NLP
+
+📫 Reach out:
+📧 usmanqamar874@gmail.com
+🔗 LinkedIn
+🐍 Kaggle
