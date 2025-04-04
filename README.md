@@ -1,9 +1,11 @@
 Hey, I'm Qamar! 👋
+
 AI Engineer | Data Whisperer | Problem Solver
 
 I turn messy data into smart solutions. From predicting risks to building no-code AI tools, I love creating things that make life easier.
 
 🛠️ My Superpowers
+
 Languages: Python (Pandas, NumPy), SQL
 
 AI/ML: TensorFlow, Scikit-learn, NLP (RAG, Prompt Engineering), LightGBM
@@ -13,12 +15,14 @@ Data Magic: AutoML, Time-Series Forecasting, Ensemble Models
 Tools I ❤️: Streamlit, Matplotlib, LangChain, Google Generative AI
 
 🌟 Top Wins
+
 🥈 Kaggle Silver Medalist (Top 2% worldwide) for predicting kids' internet addiction
 📊 Built 10+ real-world apps (like this AI chat with data)
 🔍 Detected 95% of sensitive data automatically in educational records
 📈 Boosted business decisions with time-series forecasting models
 
 🚀 Cool Projects
+
 🤖 AI Assistant for Data
 
 Let anyone analyze CSV/Excel files without coding
