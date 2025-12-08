@@ -1,18 +1,73 @@
-# 💫 About Me:
-I'm a dedicated Machine Learning Engineer with a strong foundation in Mathematics and a proven track record of delivering end-to-end ML solutions. Currently working at VFIXALL, I specialize in building robust models for Time Series Forecasting, Large Language Models (LLMs), and Computer Vision.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qamar-usman-92a9752b7/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Qamar usman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmanqamar874@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=REASCREH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=REASCREH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=REASCREH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm **Qamar Usman**
+**Machine Learning Engineer | LLMs, Transformers, RAG | Deep Learning & Computer Vision | Time Series | Kaggle Competition Expert (Top 0.4%) | Data Science | Medical Healthcare AI**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=REASCREH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+I am a research-driven **Machine Learning Engineer** with a strong foundation in **Mathematics**, specializing in:
+
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Time Series Forecasting  
+- Computer Vision  
+- Medical & Healthcare AI  
+- Deep Learning and Transformer-based architectures  
+
+My work combines **rigorous ML engineering**, **research experimentation**, and **practical deployment** of real-world AI systems.  
+I currently work at **VFIXALL**, building end-to-end production ML pipelines.
+
+---
+
+## 🧪 **Research & Project Highlights**
+
+### 🔬 **Medical / Healthcare AI**
+- **Early Sepsis Detection Model**  
+  Predictive modeling for early identification of sepsis using clinical features.
+
+- **Pneumonia Detection via CNN (94% Accuracy)**  
+  Deep CNN for chest X-ray diagnosis (Normal vs Pneumonia).
+
+- **RAG for Medical Q/A (LangChain + Local LLMs)**  
+  Domain-specific retrieval for accurate clinical reasoning.
+
+### 🤖 **Large Language Models & NLP**
+- **LLM Prompt Recovery Competition — Top 13%**  
+  Developed models to reconstruct original prompts from LLM outputs.  
+- **CSV-Chat**: Chat with structured datasets using embeddings + LLM reasoning.  
+- **LLM Experiments Repository**: Fine-tuning, training setups, and transformer pipelines.
+
+### 📈 **Time Series & Forecasting**
+- **Rohlik Orders Forecasting Challenge (MAPE: 3.37%, R²: 0.9856)**  
+  Warehouse-level daily order prediction + Streamlit dashboard.
+
+### 🧬 **Kaggle Competition Research (Top 0.4%)**
+- **RNA 3D Structure Prediction — Silver Medal (Top 4%)**  
+- **Internet Use Prediction (Child Mind Institute) — Silver Medal (Top 3%)**  
+
+### 🛒 **E-Commerce & Data Science**
+- Comprehensive E-commerce Analysis  
+- Automated ML Platform (AutoML for Classification + Regression)  
+- Advanced Data Visualization Dashboards  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages & Frameworks:**  
+`Python` · `TensorFlow` · `PyTorch` · `Keras` · `Transformers` · `FastAPI`  
+`Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost`
+
+**ML Domains:**  
+LLMs · RAG · NLP · Computer Vision · Deep Learning  
+Time Series Forecasting · Medical AI · AutoML · EDA
+
+**Tools:**  
+Git · GitHub Actions · Streamlit · Docker · MLflow · Anaconda  
+NumPy · Pandas · Matplotlib · Plotly · SciPy  
+
+**Cloud/App:**  
+Render · Vercel · Streamlit Cloud
+
+---
+
+## 📊 GitHub Stats  
+*(You can add your stats widgets here if you want)*  
