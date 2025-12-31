@@ -20,7 +20,6 @@ I currently work at **VFIXALL**, building end-to-end production ML pipelines.
 
 ## 🧪 **Research & Project Highlights**
 # 🔬 Medical & Healthcare AI
-# 🔬 Medical & Healthcare AI
 
 ## 🧠 Child Mind Institute: Problematic Internet Use Prediction
 **Kaggle Silver Medal (Top 3%) | Rank: 76 / 3,559 Teams**
@@ -276,7 +275,9 @@ The model was optimized for **Mean Average Precision at 3 (MAP@3)**, ensuring th
 **Transform data exploration** with conversational analytics—no SQL or coding required. Export full chat histories as PDFs for easy documentation and sharing. Perfect for analysts, researchers, and teams needing quick, intuitive data insights.  
 
 **[🔗 Live Demo](https://chatwithdatacsv.streamlit.app/)** | **[📂 GitHub Repository](https://github.com/REASCREH/csv-chat)**
-##⏰  Time Series Forecasting & Data Analysis
+
+#⏰  Time Series Forecasting & Data Analysis
+
 # Comprehensive E-commerce Data Analysis and Customer Segmentation 📊🔍
 **End-to-End EDA, RFM, Cohort & Deep Learning** – Analyze transaction data, segment customers using RFM modeling, conduct cohort analysis, and build predictive models. Features time-series decomposition and customer lifetime value prediction using Keras/TensorFlow.
 
